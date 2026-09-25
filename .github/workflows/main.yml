@@ -1,6 +1,6 @@
 name: a01_HdD7
 on: 
-    workflow_dispatch:
+    push:
 jobs:
     Mi_inicio:
        runs-on: ubuntu-latest
